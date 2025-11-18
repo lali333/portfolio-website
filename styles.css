@@ -201,6 +201,11 @@ h2 {
   color: #ff007b;
 }
 
+.project-card a:hover {
+  font-style: italic;
+  color: #ffafd6;
+}
+
 .project-video {
   width: 90%;
   max-width: 800px;
