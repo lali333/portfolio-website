@@ -209,6 +209,11 @@ h2 {
   margin: 1rem auto;   
 }
 
+.project-video--small {
+  width: 60%;
+  max-width: 450px;
+}
+
 .image-wrapper {
   display: flex;
   justify-content: center;
@@ -374,5 +379,4 @@ h2 {
 .scroll-box::after { top: -18px; right: -18px; }
 .scroll-box span::before { bottom: -18px; left: -18px; }
 .scroll-box span::after { bottom: -18px; right: -18px; }
-
 
