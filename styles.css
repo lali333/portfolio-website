@@ -196,10 +196,13 @@ h2 {
   line-height: 1.8;
 }
 
+<<<<<<< HEAD
 .project-card a {
   font-style: italic;
 }
 
+=======
+>>>>>>> 189bf8ede0a25b715f37a967126a0492f7a95491
 .project-video {
   width: 90%;
   max-width: 800px;
